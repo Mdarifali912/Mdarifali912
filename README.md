@@ -100,5 +100,8 @@
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/Mdarifali912"><img src="https://github-profile-trophy.vercel.app/?username=Mdarifali912&margin-w=5&theme=radical" alt="Md Arif Ali" /></a> </p>
 </div>
+# My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/Mdarifali912.gif?z=6)](https://github4life.herokuapp.com/Mdarifali912)
 
  <hr>
