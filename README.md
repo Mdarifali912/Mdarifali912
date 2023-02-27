@@ -97,6 +97,8 @@
   <p align="center"<a href="#"><img alt="Mdarifali912's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mdarifali912&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </div>
 
+[![Md Arif Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsDipaks&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Mdarifali912/github-readme-activity-graph)
+
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/Mdarifali912"><img src="https://github-profile-trophy.vercel.app/?username=Mdarifali912&margin-w=5&theme=radical" alt="Md Arif Ali" /></a> </p>
